@@ -5,5 +5,5 @@ The equation for the temperature T of a certain object immersed in a liquid bath
 The initial temperature of the object is 70 ̊F and the bath temperature is 170 ̊F.
 • Report the temperature after 10, 20, and 40 seconds
 • How long does it take for the object to reach 160 ̊F? (Give answer to one decimal place.)
-• Plot the function for T(t) for the first 40 seconds. Set the range of the vertical axis from 0 to 180 ̊C.
+• Plot the function for T(t) for the first 40 seconds. Set the range of the vertical axis from 0 to 180 ̊F.
 Include a grid, title, and axis labels.
